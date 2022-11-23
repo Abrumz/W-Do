@@ -226,8 +226,7 @@
         <div class="pull-right hidden-xs">
           <b>Version</b> <?php if(!empty($site_version)){ echo $site_version; } ?>
         </div>
-        <strong>&copy; 2022. </strong>
-        <a href="instragam.com/althaaf1601">Kotop</a>
+        <strong>&copy; 2022. <a href="https://www.instagram.com/althaaf1601/">Kotop</a></strong>
       </footer>
 
     </div><!-- ./wrapper -->

@@ -85,8 +85,7 @@
 			?>
         </div>
         <div class="container">
-        <strong>&copy; 2022. </strong>
-        <a href="instragam.com/althaaf1601">Kotop</a>
+        <strong>&copy; 2022. <a href="https://www.instagram.com/althaaf1601/">Kotop</a></strong>        
         </div><!-- /.container -->
       </footer>
     </div><!-- ./wrapper -->
