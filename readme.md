@@ -7,4 +7,4 @@ Teknologi:
 
 Untuk Memenuhi Tugas Akhir Basis Data Ilmu Komputer IPB University
 
-Don't forget follow my <a href="instagram.com/althaaf1601">Instagram</a>
+Don't forget follow my <a href="https://www.instagram.com/althaaf1601/">Instagram</a>
