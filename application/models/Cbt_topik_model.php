@@ -1,10 +1,5 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-/**
-* ZYA CBT
-* Achmad Lutfi
-* achmdlutfi@gmail.com
-* achmadlutfi.wordpress.com
-*/
+
 class Cbt_topik_model extends CI_Model{
 	public $table = 'cbt_topik';
 	
