@@ -30,8 +30,7 @@
                     <div class="box-body">
 						<div id="form-pesan">
 						</div>
-						
-                        <div class="form-group">
+						<div class="form-group">
                             <label class="col-sm-4 control-label">Username</label>
                             <div class="col-sm-8">
                                 <input type="text" class="form-control" id="username" name="username" placeholder="Username" />
@@ -48,6 +47,12 @@
                         <button type="submit" id="btn-login" class="btn btn-info pull-right" >Login</button>
                     </div><!-- /.box-footer -->
                 </form>
+                </div>
+                    <div class="container">
+                    <strong><a href="/W-Do">Log In User</a></strong>        
+                    </div><!-- /.container -->
+                </footer>
+                </div><!-- ./wrapper -->
             </div><!-- /.box -->
         <div class="col-md-3"></div>
     </div>
@@ -63,6 +68,7 @@
 			</div><!-- /.modal-content -->
 		</div><!-- /.modal-dialog -->
 	</div><!-- /.modal -->
+    
 
 <script type="text/javascript">
     $(function () {
