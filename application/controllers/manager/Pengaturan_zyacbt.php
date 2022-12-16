@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); -->
 
-class Pengaturan_zyacbt extends Member_Controller {
+class Pengaturan_W-Do extends Member_Controller {
 	private $kode_menu = 'user-zyacbt';
 	private $kelompok = 'pengaturan';
 	private $url = 'manager/pengaturan_zyacbt';
@@ -16,7 +16,7 @@ class Pengaturan_zyacbt extends Member_Controller {
         $data['kode_menu'] = $this->kode_menu;
         $data['url'] = $this->url;
         
-        $this->template->display_admin($this->kelompok.'/pengaturan_zyacbt_view', 'Pengaturan ZYACBT', $data);
+        $this->template->display_admin($this->kelompok.'/pengaturan_zyacbt_view', 'Pengaturan W-Do', $data);
     }
 
     function simpan(){
